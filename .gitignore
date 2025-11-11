@@ -1,0 +1,130 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.log
+local_settings.py
+instance/
+.webassets-cache
+.scrapy
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+*.mo
+*.pot
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# Frontend Build
+frontend/build/
+frontend/coverage/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Backend
+backend/instance/
+backend/*.db
+backend/*.sqlite
+backend/.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+*.tmp
+*.temp
+*.docx
+*.doc
+*.pdf
+create_*.py
+docs/generate_*.py
+docs/capture_*.py
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentation Build Files
+docs/diagrams/*.png
+docs/diagrams/*.jpg
+docs/docs/diagrams/*.png
+
+# Sensitive Files
+*.pem
+*.key
+*.cert
+config/secrets.yml
+
+# Project Specific Temporary Files
+DEMO_CHECKLIST.md
+EXPORT_FIX_SUMMARY.md
+MASTER_PROMPTS_COMPLETION.md
+POSTGRESQL_SETUP.md
+PRESENTATION_GUIDE.md
+PROJECT_SUMMARY.md
+SLIDE_CONTENT.md
+Code_Documentation.docx
+Emotion_Recognition_Essential_Code.docx
