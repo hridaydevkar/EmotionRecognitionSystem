@@ -340,7 +340,7 @@ For issues, questions, or suggestions:
 
 <div align="center">
 
-**Made with ❤️ and 🤖 by Hriday Devkar**
+**Made with ❤️ by Hriday Devkar**
 
 ⭐ Star this repo if you find it helpful!
 
