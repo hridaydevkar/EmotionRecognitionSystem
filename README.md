@@ -233,21 +233,6 @@ EmotionRecognitionSystem/
 ### ML Recommendations
 - `GET /api/ml/recommendations` - Get personalized recommendations
 
-For detailed API documentation, see [API_DOCS.md](docs/API_DOCS.md)
-
----
-
-## 🎨 Screenshots
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Emotion Detection
-![Detection](docs/screenshots/detection.png)
-
-### Analytics
-![Analytics](docs/screenshots/analytics.png)
-
 ---
 
 ## 🧪 Testing
@@ -332,9 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Hriday Devkar**
-
 - GitHub: [@hridaydevkar](https://github.com/hridaydevkar)
-- LinkedIn: [Hriday Devkar](https://linkedin.com/in/hridaydevkar)
 
 ---
 
@@ -351,7 +334,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or suggestions:
 - Open an issue on [GitHub Issues](https://github.com/hridaydevkar/EmotionRecognitionSystem/issues)
-- Email: hridaydevkar@example.com
+- Email: hridaydevkar@gmail.com
 
 ---
 
